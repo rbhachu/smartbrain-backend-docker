@@ -9,7 +9,7 @@
 __*Updated Version of this Repo: https://github.com/rbhachu/smartbrain-master-docker*__
 <br><br>
 
-## SmartBrain-api - Dockerized
+<h1 align="center">SmartBrain Docker v1<br>(`Dockererized` Server)</h1>
 Final project for ZTM course - using Docker
 
 1. Clone this repo
